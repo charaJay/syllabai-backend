@@ -1,0 +1,770 @@
+{
+  "username": "charajay",
+  "password": "$2b$12$mTVO9WynOb5YDHK5MBmVRemfXH5MuRepvdbccniNA2HFe7Tbqc46u",
+  "api_key": "c1f0caebdfa09fa82d9aa561:e8ca1e974a447031e0d68aa542dc0e02d1bc2c397908687275870287c2004aafe63604f697cca2ab21094f727a88390cda5b49744f00a075c1fc3bed1d34b84be971dba438db6c02adcd4c53a3c5dd9dc4cea5622fdd25355c333d7cfd43a3b63f306e39a8f2ecdaa7efa44e4cd7da147974854873799f7c79feb158a49ed57f2f4cb032c3a3d656602d566703a58cde40a999ff81be2e504545540348cfc0fec908d8b364ae49f86ccf48b0249d7cddc6a161cf",
+  "notebooks": [
+    {
+      "id": "2178f3b1-2247-4b23-90c5-f2e33e7f26c6",
+      "name": "Strafrecht",
+      "color": "#d94a4a",
+      "topics": [
+        "Sachbesch\u00e4digung",
+        "Diebstahl",
+        "Regelbeispiele und Qualifikationen (Diebstahl)",
+        "Unterschlagung",
+        "Unbefugter Gebrauch eines Fahrzeugs",
+        "Betrug",
+        "Computerbetrug",
+        "Betrugs\u00e4hnliche Delikte",
+        "Untreue",
+        "Raub",
+        "R\u00e4uberischer Diebstahl",
+        "R\u00e4uberischer Angriff auf Kraftfahrer",
+        "Erpressung",
+        "R\u00e4uberische Erpressung",
+        "Qualifikationen Raub/Erpressung",
+        "Erpresserischer Menschenraub",
+        "Geiselnahme",
+        "Beg\u00fcnstigung",
+        "Strafvereitelung",
+        "Hehlerei",
+        "Urkundendelikte",
+        "Aussagedelikte",
+        "Rechtspflegedelikte",
+        "Widerstand gegen Vollstreckungsbeamte",
+        "Stra\u00dfenverkehrsdelikte",
+        "Brandstiftungsdelikte",
+        "Vollrausch",
+        "Unterlassene Hilfeleistung",
+        "Amtsdelikte",
+        "Delikte gegen die \u00f6ffentliche Ordnung"
+      ],
+      "conversations": {
+        "Sachbesch\u00e4digung": [
+          {
+            "role": "user",
+            "content": "give me a summary"
+          },
+          {
+            "role": "user",
+            "content": "give me a summary"
+          },
+          {
+            "role": "assistant",
+            "content": "Here is a concise summary of **Sachbesch\u00e4digung** (German criminal law):\n\n1. **Legal basis**  \n   - Regulated in **\u00a7 303 StGB** (Strafgesetzbuch).  \n   - Protects the **property** of others against physical interference.\n\n2. **Basic definition**  \n   A person commits Sachbesch\u00e4digung if they  \n   - **damage** or  \n   - **destroy**  \n   an object that belongs **to someone else**.\n\n3. **Key terms**  \n   - **Sache (object)**: K\u00f6rperlicher Gegenstand (physical thing), e.g. car, window, clothing.  \n   - **Fremd (belonging to another)**: The object is at least partly in someone else\u2019s ownership.  \n   - **Besch\u00e4digen (to damage)**: Notable negative change of the substance or function (e.g. scratching a car, slashing tires).  \n   - **Zerst\u00f6ren (to destroy)**: The object loses its intended usability completely (e.g. smashing a phone to pieces).\n\n4. **Mental element (Vorsatz)**  \n   - The act must be done **intentionally** (at least with conditional intent).  \n   - Purely accidental damage is not Sachbesch\u00e4digung, but can trigger civil liability.\n\n5. **Qualified and related forms**  \n   - **\u00a7 303a StGB**: Datenver\u00e4nderung (manipulation/deletion of data).  \n   - **\u00a7 304 StGB**: Gemeinsch\u00e4dliche Sachbesch\u00e4digung (e.g. damage to public monuments, churches, public facilities).  \n   - Often relevant: **Graffiti** as Sachbesch\u00e4digung when it physically alters or impairs the surface.\n\n6. **Penalty**  \n   - For basic Sachbesch\u00e4digung:  \n     - **Fine or imprisonment up to 2 years**.  \n   - For gemeinsch\u00e4dliche Sachbesch\u00e4digung (\u00a7 304):  \n     - **Imprisonment up to 3 years or fine**.  \n   - Minor damages are often handled via **criminal complaint** by the victim; without a complaint, prosecution may be omitted in simple cases (\u00a7 303c StGB).\n\n7. **Difference to civil law**  \n   - **Criminal law**: Punishes the act (Sachbesch\u00e4digung).  \n   - **Civil law**: Regulates **compensation** (Schadensersatz) for the financial loss caused by the damage, usually under \u00a7\u00a7 823 ff. BGB.\n\nIf you want, I can next give you a short case example and show how the elements of \u00a7 303 StGB are checked step by step."
+          }
+        ]
+      },
+      "checklists": {
+        "Erpressung": [
+          {
+            "text": "Definition und gesetzliche Grundlagen der Erpressung (\u00a7 253, \u00a7 255 StGB) verstehen",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale: N\u00f6tigungsmittel (Gewalt, Drohung), Verm\u00f6gensnachteil, Bereicherungsabsicht erkennen",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu Diebstahl, Raub, N\u00f6tigung und Betrug nachvollziehen",
+            "done": false
+          },
+          {
+            "text": "Rechtswidrigkeit, Schuld und m\u00f6gliche Rechtfertigungsgr\u00fcnde pr\u00fcfen",
+            "done": false
+          },
+          {
+            "text": "Strafrahmen, besonders schwere F\u00e4lle und Versuch der Erpressung kennen",
+            "done": false
+          }
+        ],
+        "Diebstahl": [
+          {
+            "text": "Begriff und gesetzliche Definition des Diebstahls (\u00a7 242 StGB)",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale: fremde bewegliche Sache, Wegnahme, Zueignungsabsicht, Rechtswidrigkeit, Vorsatz",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu anderen Delikten: Unterschlagung, Raub, r\u00e4uberische Erpressung, Betrug",
+            "done": false
+          },
+          {
+            "text": "Qualifizierte und besonders schwere F\u00e4lle des Diebstahls (z.B. \u00a7 243, \u00a7 244 StGB)",
+            "done": false
+          },
+          {
+            "text": "Rechtsfolgen und Strafrahmen sowie Besonderheiten beim Versuch (\u00a7 22, \u00a7 23 StGB)",
+            "done": false
+          }
+        ],
+        "Betrug": [
+          {
+            "text": "Begriffserkl\u00e4rung von Betrug (\u00a7 263 StGB) und Abgrenzung zu Diebstahl und Unterschlagung",
+            "done": false
+          },
+          {
+            "text": "Objektive Tatbestandsmerkmale: T\u00e4uschung, Irrtum, Verm\u00f6gensverf\u00fcgung, Verm\u00f6gensschaden, Kausalzusammenh\u00e4nge",
+            "done": false
+          },
+          {
+            "text": "Subjektive Tatbestandsmerkmale: Vorsatz, Bereicherungsabsicht, Stoffgleichheit, Rechtswidrigkeit der Bereicherung",
+            "done": false
+          },
+          {
+            "text": "Versuch, Vollendung und Beendigung des Betrugs; R\u00fccktritt und t\u00e4tige Reue",
+            "done": false
+          },
+          {
+            "text": "Typische Betrugskonstellationen (Eingehungsbetrug, Erf\u00fcllungsbetrug, Internetbetrug) und jeweilige Pr\u00fcfungsreihenfolge",
+            "done": false
+          }
+        ],
+        "Delikte gegen die \u00f6ffentliche Ordnung": [
+          {
+            "text": "Begriff und Systematik der Delikte gegen die \u00f6ffentliche Ordnung (\u00dcberblick: \u00a7\u00a7 123 ff., 125 ff., 130 ff. StGB)",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale und Abgrenzungsfragen bei Hausfriedensbruch (\u00a7 123 StGB)",
+            "done": false
+          },
+          {
+            "text": "Strafbarkeit von Landfriedensbruch (\u00a7 125 StGB) inkl. Menschenmenge, Gewalt, Beteiligungsformen",
+            "done": false
+          },
+          {
+            "text": "Volksverhetzung (\u00a7 130 StGB): gesch\u00fctztes Rechtsgut, Tathandlungen, Meinungsfreiheit (Art. 5 GG)",
+            "done": false
+          },
+          {
+            "text": "Gemeinsame Strukturmerkmale: \u00d6ffentlichkeit, abstrakte Gef\u00e4hrdungsdelikte, Kollektivrechtsg\u00fcter und Konkurrenzfragen",
+            "done": false
+          }
+        ],
+        "Unbefugter Gebrauch eines Fahrzeugs": [
+          {
+            "text": "Tatbestandsmerkmale des \u00a7 248b StGB (Fahrzeugbegriff, Fremdheit, Gebrauch, Unbefugtheit, Vorsatz)",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu Diebstahl (\u00a7 242 StGB) und Gebrauchsanma\u00dfung bei anderen Gegenst\u00e4nden",
+            "done": false
+          },
+          {
+            "text": "Bedeutung der Einwilligung und mutma\u00dflichen Einwilligung des Berechtigten",
+            "done": false
+          },
+          {
+            "text": "Versuch, t\u00e4tige Reue, Strafantragserfordernis und Strafverfolgung von Amts wegen",
+            "done": false
+          },
+          {
+            "text": "Typische Fallkonstellationen (z.B. \u201eSchl\u00fcssel vom Tisch nehmen\u201c, \u201eProbefahrt verl\u00e4ngern\u201c) und Examensprobleme",
+            "done": false
+          }
+        ],
+        "Geiselnahme": [
+          {
+            "text": "Begriffskl\u00e4rung: Was ist Geiselnahme? Abgrenzung zu Entf\u00fchrung und Freiheitsberaubung",
+            "done": false
+          },
+          {
+            "text": "Rechtsgrundlagen: einschl\u00e4gige \u00a7\u00a7 im StGB, Tatbestandsmerkmale und Strafrahmen",
+            "done": false
+          },
+          {
+            "text": "Typische Konstellationen und Motive: politische, finanzielle, pers\u00f6nliche Hintergr\u00fcnde",
+            "done": false
+          },
+          {
+            "text": "Ablauf und Dynamik von Geisellagen: Phasen, Verhaltensweisen von T\u00e4ter:innen und Opfern",
+            "done": false
+          },
+          {
+            "text": "Polizeiliche Ma\u00dfnahmen und Verhandlungstaktiken: Grundprinzipien, Rolle von Spezialeinheiten",
+            "done": false
+          },
+          {
+            "text": "Pr\u00e4vention und Nachsorge: Sicherheitskonzepte, Betreuung von Opfern und Einsatzkr\u00e4ften",
+            "done": false
+          }
+        ],
+        "Unterlassene Hilfeleistung": [
+          {
+            "text": "Begriff und gesetzliche Grundlage von Unterlassener Hilfeleistung (\u00a7 323c StGB) verstehen (Tatbestandsmerkmale, Rechtsgutschutz)",
+            "done": false
+          },
+          {
+            "text": "Voraussetzungen der Garantenstellung und Zumutbarkeit der Hilfeleistung (Eigengef\u00e4hrdung, erhebliche Gefahr) unterscheiden k\u00f6nnen",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu anderen Delikten (z.B. K\u00f6rperverletzung durch Unterlassen, unterlassene Hilfeleistung im Stra\u00dfenverkehr) beherrschen",
+            "done": false
+          },
+          {
+            "text": "Rechtsfolgen und Strafrahmen kennen und typische Examensf\u00e4lle analysieren k\u00f6nnen",
+            "done": false
+          },
+          {
+            "text": "Praktische Handlungspflichten in Alltags- und Notfallsituationen anwenden und rechtssicher beurteilen k\u00f6nnen",
+            "done": false
+          }
+        ],
+        "Beg\u00fcnstigung": [
+          {
+            "text": "Definition und Abgrenzung der Beg\u00fcnstigung nach \u00a7 257 StGB (Tatbestandsmerkmale, Verh\u00e4ltnis zur Strafvereitelung)",
+            "done": false
+          },
+          {
+            "text": "Vortat und Vort\u00e4ter: Anforderungen an eine rechtswidrige Vortat, Unterscheidung zu Teilnahmehandlungen",
+            "done": false
+          },
+          {
+            "text": "Tathandlung: Hilfeleisten zur Sicherung des Vorteils aus der Vortat (Formen, Beispiele, Abgrenzung zu neutralen Handlungen)",
+            "done": false
+          },
+          {
+            "text": "Subjektive Seite: Vorsatzumfang, Kenntnis der Vortat und des Vorteils, Abgrenzung zum dolus eventualis",
+            "done": false
+          },
+          {
+            "text": "Rechtswidrigkeit, Schuld und pers\u00f6nliche Strafausschlie\u00dfungsgr\u00fcnde (insbesondere Privilegierung zugunsten naher Angeh\u00f6riger)",
+            "done": false
+          }
+        ],
+        "Erpresserischer Menschenraub": [
+          {
+            "text": "Tatbestandsmerkmale des \u00a7 239a StGB (Wer, was, wie: Entf\u00fchren, Sichbem\u00e4chtigen, Erpressungsabsicht, Dauer)",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu \u00a7 239b StGB (Geiselnahme) und zu Raub-/Erpressungsdelikten ohne Menschenraub",
+            "done": false
+          },
+          {
+            "text": "Subjektiver Tatbestand: Vorsatz, erpresserische Absicht, Bereicherungs- bzw. N\u00f6tigungsziel",
+            "done": false
+          },
+          {
+            "text": "Versuch, R\u00fccktritt und t\u00e4tige Reue; Beendigungszeitpunkt und R\u00fccktrittsm\u00f6glichkeiten",
+            "done": false
+          },
+          {
+            "text": "Konkurrenzen (insb. zu \u00a7 239, \u00a7 240, \u00a7\u00a7 253, 255, 250 StGB) und Strafrahmen/Systematik im BT StGB",
+            "done": false
+          }
+        ],
+        "R\u00e4uberische Erpressung": [
+          {
+            "text": "Tatbestandsmerkmale des \u00a7 255 StGB (Grundstruktur: N\u00f6tigungsmittel + Bereicherungsabsicht + Verm\u00f6gensnachteil)",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zur r\u00e4uberischen Erpressung in Form des Raubes (\u00a7 249 StGB) und zur einfachen Erpressung (\u00a7 253 StGB)",
+            "done": false
+          },
+          {
+            "text": "Pr\u00fcfung der Qualifikationen (\u00a7\u00a7 250, 251 StGB) und Konkurrenzen zu Raub- und Diebstahlsdelikten",
+            "done": false
+          },
+          {
+            "text": "Subjektiver Tatbestand: Vorsatz, rechtswidrige und stoffgleiche Bereicherungsabsicht, ggf. Absicht rechtswidriger Zueignung",
+            "done": false
+          },
+          {
+            "text": "Mitwirkung mehrerer Personen: Mitt\u00e4terschaft, Teilnahme, Bandenproblematik und Versuchsstrafbarkeit",
+            "done": false
+          }
+        ],
+        "Unterschlagung": [
+          {
+            "text": "Begriff und Abgrenzung der Unterschlagung (\u00a7 246 StGB) von Diebstahl und Betrug",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale: Fremdheit der Sache, bewegliche Sache, Zueignung, Zueignungsabsicht",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zwischen blo\u00dfem Besitz, Gewahrsam und Eigentum in Unterschlagungsf\u00e4llen",
+            "done": false
+          },
+          {
+            "text": "Besondere Erscheinungsformen: Veruntreuende Unterschlagung (\u00a7 246 II StGB), Fundunterschlagung",
+            "done": false
+          },
+          {
+            "text": "Versuch, Teilnahme und Konkurrenzen (insb. mit Diebstahl, Untreue, Betrug)",
+            "done": false
+          },
+          {
+            "text": "Rechtsfolgen, Strafrahmen und typische Fallkonstellationen in Klausuren",
+            "done": false
+          }
+        ],
+        "Computerbetrug": [
+          {
+            "text": "Rechtsgrundlagen und Tatbestandsmerkmale des Computerbetrugs nach \u00a7 263a StGB verstehen (Tathandlungen, Erfolg, Vorsatz, Bereicherungsabsicht)",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu \u201eklassischem\u201c Betrug (\u00a7 263 StGB): Kommunikationsbetrug vs. manipulative Einwirkung auf Datenverarbeitung herausarbeiten",
+            "done": false
+          },
+          {
+            "text": "Typische Fallkonstellationen kennen (z.B. Manipulation von Geldautomaten, Online-Banking-Missbrauch, Skimming, Phishing)",
+            "done": false
+          },
+          {
+            "text": "Pr\u00fcfungsschema zum Computerbetrug sicher anwenden (objektiver Tatbestand, subjektiver Tatbestand, Rechtswidrigkeit, Schuld)",
+            "done": false
+          },
+          {
+            "text": "Konkurrenzen und Verh\u00e4ltnis zu anderen Delikten (z.B. Urkundenf\u00e4lschung, Datenver\u00e4nderung, Diebstahl) \u00fcberblicken",
+            "done": false
+          }
+        ],
+        "R\u00e4uberischer Diebstahl": [
+          {
+            "text": "Tatbestandsvoraussetzungen des \u00a7 252 StGB (Vortat Diebstahl, auf frischer Tat betroffen, Einsatz von Gewalt/Drohung zur Beutesicherung)",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung r\u00e4uberischer Diebstahl \u2013 Raub \u2013 Diebstahl mit anschlie\u00dfender N\u00f6tigung (insb. Finalzusammenhang und zeitlicher Zusammenhang)",
+            "done": false
+          },
+          {
+            "text": "Bedeutung des Merkmals \u201eauf frischer Tat betroffen\u201c (r\u00e4umlich-zeitlicher Zusammenhang, Wahrnehmung durch dritte Person)",
+            "done": false
+          },
+          {
+            "text": "Subjektiver Tatbestand: Vorsatz bzgl. aller objektiven Merkmale und Sicherungsabsicht hinsichtlich der Beute",
+            "done": false
+          },
+          {
+            "text": "Versuchs- und R\u00fccktrittsproblematik beim r\u00e4uberischen Diebstahl",
+            "done": false
+          },
+          {
+            "text": "Konkurrenzen zu Raub, K\u00f6rperverletzungsdelikten und N\u00f6tigungsdelikten",
+            "done": false
+          }
+        ],
+        "Stra\u00dfenverkehrsdelikte": [
+          {
+            "text": "Rechtsgrundlagen der Stra\u00dfenverkehrsdelikte (StGB, StVG, StVO) und Abgrenzung zu Ordnungswidrigkeiten",
+            "done": false
+          },
+          {
+            "text": "Trunkenheit im Verkehr, Gef\u00e4hrdung des Stra\u00dfenverkehrs und Beeinflussung durch Alkohol/Drogen (inkl. relevante BAK-Grenzen)",
+            "done": false
+          },
+          {
+            "text": "Unerlaubtes Entfernen vom Unfallort (Unfallflucht): Tatbestandsmerkmale, Pflichten nach einem Unfall, R\u00fccktrittsm\u00f6glichkeiten",
+            "done": false
+          },
+          {
+            "text": "Fahren ohne Fahrerlaubnis, Entziehung der Fahrerlaubnis und Fahrverbot: Voraussetzungen und Rechtsfolgen",
+            "done": false
+          },
+          {
+            "text": "K\u00f6rperverletzungs- und T\u00f6tungsdelikte im Stra\u00dfenverkehr (fahrl\u00e4ssig vs. vors\u00e4tzlich) und Konkurrenzfragen",
+            "done": false
+          },
+          {
+            "text": "Sanktionen und Nebenfolgen: Geld- und Freiheitsstrafen, Punkte in Flensburg, MPU und versicherungsrechtliche Konsequenzen",
+            "done": false
+          }
+        ],
+        "Untreue": [
+          {
+            "text": "Gesetzliche Grundlagen der Untreue (\u00a7 266 StGB) und Schutzgut verstehen",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsvariante Missbrauch: Befugnisstellung, rechtliches D\u00fcrfen vs. K\u00f6nnen, Missbrauchshandlung erkennen",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsvariante Treubruch: Verm\u00f6gensbetreuungspflicht, Kriterien der \u201eerheblichen\u201c Pflicht, Abgrenzung zu Nebenpflichten",
+            "done": false
+          },
+          {
+            "text": "Vorsatz, Verm\u00f6gensnachteil und Kausalit\u00e4t: Ma\u00dfstab des wirtschaftlichen Vergleichs, konkrete Schadensbestimmung",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu anderen Verm\u00f6gensdelikten (Betrug, Unterschlagung) und typische Fallgruppen (Gesch\u00e4ftsf\u00fchrer, Beamte, Finanzverwalter)",
+            "done": false
+          }
+        ],
+        "Vollrausch": [
+          {
+            "text": "Begriffskl\u00e4rung: Vollrausch (\u00a7 323a StGB) und Abgrenzung zur actio libera in causa",
+            "done": false
+          },
+          {
+            "text": "Objektive Tatbestandsmerkmale: Sich-Betrinken, Zustand des Rausches, Feststellung der Rauschmittel und -menge",
+            "done": false
+          },
+          {
+            "text": "Subjektive Tatbestandsmerkmale: Vorsatz/Fahrl\u00e4ssigkeit hinsichtlich Herbeif\u00fchrung des Rausches und M\u00f6glichkeit/Naheliegen einer Rauschtat",
+            "done": false
+          },
+          {
+            "text": "Rechtswidrigkeit und Schuld: Besonderheiten der Schuldunf\u00e4higkeit im Rauschzustand und Zweck der Auffangfunktion",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu anderen Delikten und Konkurrenzfragen (insb. zur vors\u00e4tzlichen Haupttat, Fahrl\u00e4ssigkeitsdelikten und \u00a7 20, \u00a7 21 StGB)",
+            "done": false
+          }
+        ],
+        "Sachbesch\u00e4digung": [
+          {
+            "text": "Begriffskl\u00e4rung Sachbesch\u00e4digung (\u00a7 303 StGB) und Abgrenzung zu verwandten Delikten (z.B. Diebstahl, Vandalismus, Hausfriedensbruch)",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale: fremde Sache, k\u00f6rperlicher Gegenstand, Substanzverletzung oder nicht ganz unerhebliche Gebrauchsminderung",
+            "done": false
+          },
+          {
+            "text": "Tathandlungen und typische Fallkonstellationen (Beschmieren, Zerkratzen, Zerst\u00f6ren, \u201eGraffiti-F\u00e4lle\u201c, gemeinsch\u00e4dliche Sachbesch\u00e4digung \u00a7 304 StGB)",
+            "done": false
+          },
+          {
+            "text": "Subjektiver Tatbestand: Vorsatzformen, Abgrenzung zur fahrl\u00e4ssigen Sachbesch\u00e4digung, Bedeutung von Einwilligung und mutma\u00dflicher Einwilligung",
+            "done": false
+          },
+          {
+            "text": "Rechtswidrigkeit und Schuld, Rechtfertigungsgr\u00fcnde (z.B. Notwehr, Notstand) und Entschuldigungsgr\u00fcnde",
+            "done": false
+          },
+          {
+            "text": "Strafrahmen, Strafzumessung, m\u00f6gliche Nebenfolgen (Schadensersatz, Schmerzensgeld, Eintragung ins F\u00fchrungszeugnis, Diversionsm\u00f6glichkeiten bei Jugendlichen)",
+            "done": false
+          }
+        ],
+        "Hehlerei": [
+          {
+            "text": "Begriffskl\u00e4rung: Was ist Hehlerei? Abgrenzung zu Diebstahl, Betrug und Beg\u00fcnstigung",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale: Vortat, Sache aus einer rechtswidrigen Tat, Tathandlungen (Ankaufen, Sich- oder Drittverschaffen, Absetzen, Absatzhilfe), Vorsatz",
+            "done": false
+          },
+          {
+            "text": "Subjektive Seite: Kenntnis der rechtswidrigen Herkunft, Eventualvorsatz, Abgrenzung zu fahrl\u00e4ssigem Verhalten",
+            "done": false
+          },
+          {
+            "text": "Rechtsfolgen und Strafrahmen: Strafandrohung, besonders schwere F\u00e4lle, Versuch, Verj\u00e4hrung",
+            "done": false
+          },
+          {
+            "text": "Praxisbeispiele und Fallpr\u00fcfung: Pr\u00fcfungsschema anwenden, typische Klausurkonstellationen, Abgrenzungs- und Konkurrenzfragen (z.B. mit Mitt\u00e4terschaft, Teilnahme, Geldw\u00e4sche)",
+            "done": false
+          }
+        ],
+        "Raub": [
+          {
+            "text": "Begriffserkl\u00e4rung von Raub (\u00a7 249 StGB) und Abgrenzung zu Diebstahl und r\u00e4uberischer Erpressung",
+            "done": false
+          },
+          {
+            "text": "Objektiver Tatbestand: Wegnahme, Einsatz von Gewalt gegen eine Person oder Drohung mit gegenw\u00e4rtiger Gefahr f\u00fcr Leib oder Leben, Kausalit\u00e4t und Finalzusammenhang",
+            "done": false
+          },
+          {
+            "text": "Subjektiver Tatbestand: Vorsatz bez\u00fcglich aller objektiven Merkmale und Zueignungsabsicht, ggf. Rechtswidrigkeit der erstrebten Zueignung",
+            "done": false
+          },
+          {
+            "text": "Qualifikationen und besonders schwere F\u00e4lle (\u00a7\u00a7 250, 251 StGB): Waffen/Gef\u00e4hrliche Werkzeuge, Bandenraub, schwere Gesundheitssch\u00e4den, Todesfolge",
+            "done": false
+          },
+          {
+            "text": "Rechtswidrigkeit und Schuld: m\u00f6gliche Rechtfertigungs- und Entschuldigungsgr\u00fcnde, insbesondere Notwehr, entschuldigender Notstand",
+            "done": false
+          },
+          {
+            "text": "Konkurrenzen und Pr\u00fcfungsaufbau in Klausuren: Verh\u00e4ltnis zu K\u00f6rperverletzungsdelikten, N\u00f6tigung, r\u00e4uberischer Erpressung und Diebstahlsdelikten",
+            "done": false
+          }
+        ],
+        "Amtsdelikte": [
+          {
+            "text": "Begriff und Systematik der Amtsdelikte (insb. \u00a7 331\u2013\u00a7 358 StGB), Abgrenzung zu allgemeinen Delikten",
+            "done": false
+          },
+          {
+            "text": "Amtstr\u00e4gereigenschaft: Definition, Anwendungsbereich, Einbeziehung von Europabeamten und sonstigen Funktionstr\u00e4gern",
+            "done": false
+          },
+          {
+            "text": "Tathandlungen und Tatbestandsmerkmale zentraler Vorschriften (z.B. Vorteilsannahme/-gew\u00e4hrung, Bestechlichkeit/Bestechung, Verletzung von Dienstgeheimnissen)",
+            "done": false
+          },
+          {
+            "text": "Subjektive Tatseite, insbesondere Vorsatzformen, Unrechtsvereinbarung und Korruptionsbezug",
+            "done": false
+          },
+          {
+            "text": "Rechtsfolgen und besondere strafzumessungsrelevante Umst\u00e4nde (u.a. Vertrauensschutz der Allgemeinheit, Amtsverlust, Berufsverbote)",
+            "done": false
+          },
+          {
+            "text": "Konkurrenzen, Abgrenzung zu Disziplinarrecht und typischen Klausurkonstellationen",
+            "done": false
+          }
+        ],
+        "Rechtspflegedelikte": [
+          {
+            "text": "Begriff und Systematik der Rechtspflegedelikte (insb. \u00a7\u00a7 153 ff., 258 ff. StGB) verstehen",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale, Beteiligungsformen und Abgrenzung zu allgemeinen Verm\u00f6gens- und Amtsdelikten wiederholen",
+            "done": false
+          },
+          {
+            "text": "Rechtswidrigkeit und Schuld, inklusive Irrtumsproblematik (z.B. \u00a7 17, \u00a7 16 StGB) im Kontext von Rechtspflegedelikten pr\u00fcfen k\u00f6nnen",
+            "done": false
+          },
+          {
+            "text": "Sanktionsrahmen, Konkurrenzen (insb. mit Urkundsdelikten, Betrug, Strafvereitelung) und Versuchsstrafbarkeit einordnen",
+            "done": false
+          },
+          {
+            "text": "Typische Fallkonstellationen (falsche Aussage, falsche Verd\u00e4chtigung, Strafvereitelung im Amt) gutachterlich l\u00f6sen und Aufbauschemata sicher anwenden",
+            "done": false
+          }
+        ],
+        "Betrugs\u00e4hnliche Delikte": [
+          {
+            "text": "Tatbestandliche Abgrenzung: Begriff und Systematik betrugs\u00e4hnlicher Delikte (z.B. \u00a7 263a, \u00a7 264, \u00a7 265b StGB) im Verh\u00e4ltnis zu \u00a7 263 StGB kl\u00e4ren",
+            "done": false
+          },
+          {
+            "text": "Computerbetrug (\u00a7 263a StGB): Tathandlungen, Beeinflussung eines Datenverarbeitungsvorgangs und typische Klausurkonstellationen (EC-Karten-F\u00e4lle, Phishing) wiederholen",
+            "done": false
+          },
+          {
+            "text": "Subventionsbetrug (\u00a7 264 StGB): Subventionsbegriff, unrichtige/unvollst\u00e4ndige Angaben, subventionserhebliche Tatsachen und Konkurrenzen zu \u00a7 263 StGB lernen",
+            "done": false
+          },
+          {
+            "text": "Kapitalanlagebetrug (\u00a7 264a StGB): Tatobjekt \u201eKapitalanlage\u201c, unrichtige vorteilhafte Angaben und Verschweigen nachteiliger Tatsachen systematisieren",
+            "done": false
+          },
+          {
+            "text": "Kreditbetrug (\u00a7 265b StGB) und \u00fcbrige Sondertatbest\u00e4nde: Schutzrichtung, Antragsvoraussetzungen und Verh\u00e4ltnis zu allgemeinem Betrug pr\u00fcfen",
+            "done": false
+          }
+        ],
+        "Strafvereitelung": [
+          {
+            "text": "Begriff und Schutzzweck der Strafvereitelung (\u00a7 258 StGB), Abgrenzung zu anderen Delikten (z.B. Beg\u00fcnstigung, Strafvereitelung im Amt)",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale: Vereitelungshandlung, Tauglichkeit der Vereitelung, Bezug auf eine fremde rechtswidrige Tat, Vorsatzumfang",
+            "done": false
+          },
+          {
+            "text": "Sonderprobleme: Versuch, R\u00fccktritt, Teilnahme (Anstiftung/Beihilfe) und Konkurrenz zu Vortat und anderen Delikten",
+            "done": false
+          },
+          {
+            "text": "Strafvereitelung im Amt (\u00a7 258a StGB): T\u00e4terkreis, besondere Anforderungen, Abgrenzung zur einfachen Strafvereitelung",
+            "done": false
+          },
+          {
+            "text": "Rechtsfolgen, Strafrahmen, pers\u00f6nlicher Strafausschlie\u00dfungsgrund (\u00a7 258 Abs. 6 StGB, Angeh\u00f6rigenprivileg) und klausurrelevante Examensklassiker",
+            "done": false
+          }
+        ],
+        "R\u00e4uberischer Angriff auf Kraftfahrer": [
+          {
+            "text": "Tatbestandsvoraussetzungen des \u00a7 316a StGB (Angriff auf Leib/Leben, Entschlussfreiheit oder Fortbewegungsfreiheit; Ausnutzen der besonderen Verh\u00e4ltnisse des Stra\u00dfenverkehrs) verstehen",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu r\u00e4uberischen Delikten nach \u00a7\u00a7 249 ff. StGB sowie zu Stra\u00dfenraub und Stra\u00dfenverkehrsgef\u00e4hrdung erarbeiten",
+            "done": false
+          },
+          {
+            "text": "Begriff des \u201eKraftfahrers\u201c, Zeitpunkt und Dauer des F\u00fchrens eines Kfz, sowie \u201eMitfahrer\u201c-Problematik (str.) kl\u00e4ren",
+            "done": false
+          },
+          {
+            "text": "Dogmatik des Ausnutzens der besonderen Verh\u00e4ltnisse des Stra\u00dfenverkehrs (Schutzrichtung, typische Gefahren, Zeitpunkt des Angriffs) vertiefen",
+            "done": false
+          },
+          {
+            "text": "Versuchs- und Konkurrenzenfragen (insb. zu Raub, r\u00e4uberischer Erpressung, gef\u00e4hrlicher K\u00f6rperverletzung) systematisch wiederholen",
+            "done": false
+          }
+        ],
+        "Aussagedelikte": [
+          {
+            "text": "Begriff und Systematik der Aussagedelikte (falsche uneidliche Aussage, Meineid, falsche Verd\u00e4chtigung, Vort\u00e4uschen einer Straftat)",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale der falschen Aussage: tauglicher T\u00e4terkreis, Aussagebegriff, vor Gericht/Beh\u00f6rde, Unwahrheit, Vorsatz",
+            "done": false
+          },
+          {
+            "text": "Abgrenzungen: Aussage vs. blo\u00dfe Mitteilung, Irrtum/T\u00e4uschung, Versuch, R\u00fccktritt, straflose Vorbereitung",
+            "done": false
+          },
+          {
+            "text": "Konkurrenzen und Beteiligung: Mitt\u00e4ter, Anstifter, T\u00e4ter hinter dem T\u00e4ter, Verh\u00e4ltnis zu Urkundsdelikten und Betrug",
+            "done": false
+          },
+          {
+            "text": "Rechtswidrigkeit und Schuld: Irrt\u00fcmer (Verbots- und Tatbestandsirrtum), Pflichtenkollision, Aussageverweigerungsrechte",
+            "done": false
+          },
+          {
+            "text": "Pr\u00fcfungsschemata f\u00fcr die wichtigsten Aussagedelikte sicher beherrschen und klausurtypische Fallkonstellationen \u00fcben",
+            "done": false
+          }
+        ],
+        "Qualifikationen Raub/Erpressung": [
+          {
+            "text": "Minder schweren Fall des Raubes: Voraussetzungen, Regelbeispiele und Abgrenzung zur Strafrahmenverschiebung",
+            "done": false
+          },
+          {
+            "text": "Schwerer Raub nach \u00a7 250 StGB: Qualifikationsmerkmale (Waffe, gef\u00e4hrliches Werkzeug, Bandenbezug, Wohnung, schwere Misshandlung)",
+            "done": false
+          },
+          {
+            "text": "Erpresserischer Menschenraub und Geiselnahme: Verh\u00e4ltnis zu (schwerem) Raub und r\u00e4uberischer Erpressung, Konkurrenzfragen",
+            "done": false
+          },
+          {
+            "text": "R\u00e4uberische Erpressung (\u00a7 255, \u00a7 250 StGB): Abgrenzung zum Raub, Qualifikationen und Strafrahmen",
+            "done": false
+          },
+          {
+            "text": "Versuch und R\u00fccktritt bei qualifiziertem Raub/Erpressung: Stadium der Tat, R\u00fccktrittsvoraussetzungen und Auswirkungen auf Qualifikationen",
+            "done": false
+          }
+        ],
+        "Widerstand gegen Vollstreckungsbeamte": [
+          {
+            "text": "Tatbestand des \u00a7 113 StGB: gesch\u00fctztes Rechtsgut, taugliche Amtstr\u00e4ger, Vollstreckungshandlung, Diensthandlung und Abgrenzung zu \u00a7 114 StGB",
+            "done": false
+          },
+          {
+            "text": "Tathandlung: Widerstand durch Gewalt oder Drohung mit Gewalt, konkreter Einfluss auf Vollstreckungshandlung, Abgrenzung zu blo\u00dfer Ungehorsamkeit",
+            "done": false
+          },
+          {
+            "text": "Vorsatz und etwaige Irrt\u00fcmer (z.B. \u00fcber Amtstr\u00e4gereigenschaft oder Rechtm\u00e4\u00dfigkeit der Diensthandlung)",
+            "done": false
+          },
+          {
+            "text": "Rechtm\u00e4\u00dfigkeit der Vollstreckungshandlung: formelle und materielle Voraussetzungen, Bedeutung f\u00fcr die Strafbarkeit",
+            "done": false
+          },
+          {
+            "text": "Qualifikationen und Regelbeispiele des \u00a7 113 Abs. 2, 3 StGB sowie Versuch und R\u00fccktritt",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu anderen Delikten (insb. \u00a7 113 vs. \u00a7 114 StGB, N\u00f6tigung, K\u00f6rperverletzung, Beleidigung) und Konkurrenzen",
+            "done": false
+          }
+        ],
+        "Urkundendelikte": [
+          {
+            "text": "Begriff und Funktionen der Urkunde (Perpetuierungs-, Beweis- und Garantiefunktion) sicher beherrschen",
+            "done": false
+          },
+          {
+            "text": "Systematik der Urkundendelikte in \u00a7\u00a7 267 ff. StGB (Urkundenf\u00e4lschung, Falschbeurkundung, Gebrauchmachen etc.) verstehen",
+            "done": false
+          },
+          {
+            "text": "Tatbestandsmerkmale der Urkundenf\u00e4lschung (\u00a7 267 StGB) inklusive Varianten (Herstellen, Verf\u00e4lschen, Gebrauchen) anwenden k\u00f6nnen",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu verwandten Erscheinungen (blo\u00dfe L\u00fcge, schriftliche L\u00fcge, Zusammenspiel mit T\u00e4uschungsdelikten wie Betrug) ein\u00fcben",
+            "done": false
+          },
+          {
+            "text": "Besondere Urkundenarten (technische Aufzeichnungen, Ausweise, \u00f6ffentliche Urkunden) und ihre strafrechtliche Relevanz unterscheiden",
+            "done": false
+          },
+          {
+            "text": "Aufbau und klausurtypische Streitst\u00e4nde (insbesondere Urkundenbegriff, echte/unechte Urkunde, Auslegung von Garantiefunktionen) wiedergeben k\u00f6nnen",
+            "done": false
+          }
+        ],
+        "Brandstiftungsdelikte": [
+          {
+            "text": "Tatbest\u00e4nde der Brandstiftungsdelikte (\u00a7\u00a7 306\u2013306f StGB): Systematik, gesch\u00fctzte Rechtsg\u00fcter und Unterschiede (Grunddelikte, Qualifikationen, Erfolgsqualifikationen)",
+            "done": false
+          },
+          {
+            "text": "Objektive Tatbestandsmerkmale: Begriffe \u201eInbrandsetzen\u201c und \u201eBrandlegung\u201c, taugliche Tatobjekte, Kausalit\u00e4t und Zurechnung",
+            "done": false
+          },
+          {
+            "text": "Subjektive Tatseite: Vorsatzformen, Fahrl\u00e4ssigkeit bei \u00a7 306d StGB, Irrt\u00fcmer und Konkurrenzen mit anderen Delikten",
+            "done": false
+          },
+          {
+            "text": "Qualifikationen und Erfolgsqualifikationen: \u00a7 306a, \u00a7 306b StGB (insb. Gemeingefahr, schwere Gesundheitssch\u00e4den, Todesfolge) und deren Strafrahmen",
+            "done": false
+          },
+          {
+            "text": "Versuch, R\u00fccktritt und t\u00e4tige Reue: Besonderheiten beim Versuch der Brandstiftung, Abgrenzung zu \u00a7 306e StGB",
+            "done": false
+          },
+          {
+            "text": "Abgrenzung zu Sachbesch\u00e4digung und anderen Gef\u00e4hrdungsdelikten: Konkurrenzen, Pr\u00fcfungsaufbau und typische Klausurkonstellationen",
+            "done": false
+          }
+        ],
+        "Regelbeispiele und Qualifikationen (Diebstahl)": [
+          {
+            "text": "Begriffsabgrenzung: Unterschied zwischen Grundtatbestand, Regelbeispielen (\u00a7 243 StGB) und Qualifikationen (\u00a7 244, \u00a7 244a StGB) kl\u00e4ren",
+            "done": false
+          },
+          {
+            "text": "Systematik: Einordnung von Regelbeispielen als Strafzumessungsregeln vs. Qualifikationen als eigenst\u00e4ndige Tatbest\u00e4nde verstehen",
+            "done": false
+          },
+          {
+            "text": "Pr\u00fcfungsaufbau: Reihenfolge im Gutachten (Grunddelikt, Qualifikation, Regelbeispiele) sicher beherrschen und typische Pr\u00fcfungsfehler vermeiden",
+            "done": false
+          },
+          {
+            "text": "Objektive Merkmale: Wichtige Regelbeispiele (z.B. Einbruch, besonders gesicherte R\u00e4umlichkeit) und Qualifikationen (z.B. Waffen, Bandendiebstahl, Wohnungseinbruch) definieren und abgrenzen k\u00f6nnen",
+            "done": false
+          },
+          {
+            "text": "Subjektive Merkmale und Vorsatz: Erfordernis des Vorsatzes bez\u00fcglich der jeweiligen qualifizierenden bzw. regelbeispielhaften Umst\u00e4nde pr\u00fcfen",
+            "done": false
+          },
+          {
+            "text": "Konkurrenzen und Strafrahmen: Auswirkungen von Regelbeispielen und Qualifikationen auf den Strafrahmen sowie ihr Konkurrenzverh\u00e4ltnis untereinander und zum Grunddelikt kennen",
+            "done": false
+          }
+        ]
+      }
+    }
+  ]
+}
