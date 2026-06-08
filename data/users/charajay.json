@@ -103,23 +103,23 @@
         "Betrug": [
           {
             "text": "Begriffserkl\u00e4rung von Betrug (\u00a7 263 StGB) und Abgrenzung zu Diebstahl und Unterschlagung",
-            "done": false
+            "done": true
           },
           {
             "text": "Objektive Tatbestandsmerkmale: T\u00e4uschung, Irrtum, Verm\u00f6gensverf\u00fcgung, Verm\u00f6gensschaden, Kausalzusammenh\u00e4nge",
-            "done": false
+            "done": true
           },
           {
             "text": "Subjektive Tatbestandsmerkmale: Vorsatz, Bereicherungsabsicht, Stoffgleichheit, Rechtswidrigkeit der Bereicherung",
-            "done": false
+            "done": true
           },
           {
             "text": "Versuch, Vollendung und Beendigung des Betrugs; R\u00fccktritt und t\u00e4tige Reue",
-            "done": false
+            "done": true
           },
           {
             "text": "Typische Betrugskonstellationen (Eingehungsbetrug, Erf\u00fcllungsbetrug, Internetbetrug) und jeweilige Pr\u00fcfungsreihenfolge",
-            "done": false
+            "done": true
           }
         ],
         "Delikte gegen die \u00f6ffentliche Ordnung": [
@@ -147,23 +147,23 @@
         "Unbefugter Gebrauch eines Fahrzeugs": [
           {
             "text": "Tatbestandsmerkmale des \u00a7 248b StGB (Fahrzeugbegriff, Fremdheit, Gebrauch, Unbefugtheit, Vorsatz)",
-            "done": false
+            "done": true
           },
           {
             "text": "Abgrenzung zu Diebstahl (\u00a7 242 StGB) und Gebrauchsanma\u00dfung bei anderen Gegenst\u00e4nden",
-            "done": false
+            "done": true
           },
           {
             "text": "Bedeutung der Einwilligung und mutma\u00dflichen Einwilligung des Berechtigten",
-            "done": false
+            "done": true
           },
           {
             "text": "Versuch, t\u00e4tige Reue, Strafantragserfordernis und Strafverfolgung von Amts wegen",
-            "done": false
+            "done": true
           },
           {
             "text": "Typische Fallkonstellationen (z.B. \u201eSchl\u00fcssel vom Tisch nehmen\u201c, \u201eProbefahrt verl\u00e4ngern\u201c) und Examensprobleme",
-            "done": false
+            "done": true
           }
         ],
         "Geiselnahme": [
@@ -283,27 +283,27 @@
         "Unterschlagung": [
           {
             "text": "Begriff und Abgrenzung der Unterschlagung (\u00a7 246 StGB) von Diebstahl und Betrug",
-            "done": false
+            "done": true
           },
           {
             "text": "Tatbestandsmerkmale: Fremdheit der Sache, bewegliche Sache, Zueignung, Zueignungsabsicht",
-            "done": false
+            "done": true
           },
           {
             "text": "Abgrenzung zwischen blo\u00dfem Besitz, Gewahrsam und Eigentum in Unterschlagungsf\u00e4llen",
-            "done": false
+            "done": true
           },
           {
             "text": "Besondere Erscheinungsformen: Veruntreuende Unterschlagung (\u00a7 246 II StGB), Fundunterschlagung",
-            "done": false
+            "done": true
           },
           {
             "text": "Versuch, Teilnahme und Konkurrenzen (insb. mit Diebstahl, Untreue, Betrug)",
-            "done": false
+            "done": true
           },
           {
             "text": "Rechtsfolgen, Strafrahmen und typische Fallkonstellationen in Klausuren",
-            "done": false
+            "done": true
           }
         ],
         "Computerbetrug": [
@@ -475,27 +475,27 @@
         "Raub": [
           {
             "text": "Begriffserkl\u00e4rung von Raub (\u00a7 249 StGB) und Abgrenzung zu Diebstahl und r\u00e4uberischer Erpressung",
-            "done": false
+            "done": true
           },
           {
             "text": "Objektiver Tatbestand: Wegnahme, Einsatz von Gewalt gegen eine Person oder Drohung mit gegenw\u00e4rtiger Gefahr f\u00fcr Leib oder Leben, Kausalit\u00e4t und Finalzusammenhang",
-            "done": false
+            "done": true
           },
           {
             "text": "Subjektiver Tatbestand: Vorsatz bez\u00fcglich aller objektiven Merkmale und Zueignungsabsicht, ggf. Rechtswidrigkeit der erstrebten Zueignung",
-            "done": false
+            "done": true
           },
           {
             "text": "Qualifikationen und besonders schwere F\u00e4lle (\u00a7\u00a7 250, 251 StGB): Waffen/Gef\u00e4hrliche Werkzeuge, Bandenraub, schwere Gesundheitssch\u00e4den, Todesfolge",
-            "done": false
+            "done": true
           },
           {
             "text": "Rechtswidrigkeit und Schuld: m\u00f6gliche Rechtfertigungs- und Entschuldigungsgr\u00fcnde, insbesondere Notwehr, entschuldigender Notstand",
-            "done": false
+            "done": true
           },
           {
             "text": "Konkurrenzen und Pr\u00fcfungsaufbau in Klausuren: Verh\u00e4ltnis zu K\u00f6rperverletzungsdelikten, N\u00f6tigung, r\u00e4uberischer Erpressung und Diebstahlsdelikten",
-            "done": false
+            "done": true
           }
         ],
         "Amtsdelikte": [
@@ -741,27 +741,27 @@
         "Regelbeispiele und Qualifikationen (Diebstahl)": [
           {
             "text": "Begriffsabgrenzung: Unterschied zwischen Grundtatbestand, Regelbeispielen (\u00a7 243 StGB) und Qualifikationen (\u00a7 244, \u00a7 244a StGB) kl\u00e4ren",
-            "done": false
+            "done": true
           },
           {
             "text": "Systematik: Einordnung von Regelbeispielen als Strafzumessungsregeln vs. Qualifikationen als eigenst\u00e4ndige Tatbest\u00e4nde verstehen",
-            "done": false
+            "done": true
           },
           {
             "text": "Pr\u00fcfungsaufbau: Reihenfolge im Gutachten (Grunddelikt, Qualifikation, Regelbeispiele) sicher beherrschen und typische Pr\u00fcfungsfehler vermeiden",
-            "done": false
+            "done": true
           },
           {
             "text": "Objektive Merkmale: Wichtige Regelbeispiele (z.B. Einbruch, besonders gesicherte R\u00e4umlichkeit) und Qualifikationen (z.B. Waffen, Bandendiebstahl, Wohnungseinbruch) definieren und abgrenzen k\u00f6nnen",
-            "done": false
+            "done": true
           },
           {
             "text": "Subjektive Merkmale und Vorsatz: Erfordernis des Vorsatzes bez\u00fcglich der jeweiligen qualifizierenden bzw. regelbeispielhaften Umst\u00e4nde pr\u00fcfen",
-            "done": false
+            "done": true
           },
           {
             "text": "Konkurrenzen und Strafrahmen: Auswirkungen von Regelbeispielen und Qualifikationen auf den Strafrahmen sowie ihr Konkurrenzverh\u00e4ltnis untereinander und zum Grunddelikt kennen",
-            "done": false
+            "done": true
           }
         ]
       }

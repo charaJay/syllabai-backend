@@ -12,7 +12,12 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # your Node frontend
+    allow_origins=[
+        "http://localhost:3000",
+        "https://www.syllabai.de",
+        "https://syllabai.de",
+        "https://syllabai-frontend-production.up.railway.app"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
